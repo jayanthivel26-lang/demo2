@@ -3,3 +3,4 @@ updated by b1
 i want to change  program
 i change the icon
 is the king
+print("secreat_number")
