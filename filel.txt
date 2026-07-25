@@ -2,3 +2,6 @@ i am from trichy
 updated by b1
 i want to change  program
 i change the icon
+
+print("secreat_number")
+print("user_input")
